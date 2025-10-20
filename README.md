@@ -18,10 +18,10 @@ Este projeto é uma recriação da landing page oficial da Starbucks, desenvolvi
 ## 📦 Como Executar o Projeto
 
 -   1 - Clone este repositório:
-    `git clone [https://github.com/daniel-olive/starbucks]`
+    `git clone https://github.com/daniel-olive/starbucks`
 
 -   2 - Navegue até o diretório do projeto:
-    `cd [/starbucks]`
+    `cd /starbucks`
 
 -   3 - Abra o arquivo `index.html` no seu navegador:
     Não é necessário instalar dependências. Basta abrir o arquivo `index.html` diretamente no navegador para visualizar a página.
